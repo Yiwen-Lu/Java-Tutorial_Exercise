@@ -1,6 +1,4 @@
-# Java Tutorial Exercises
-
-My self-study on Java
+# Self-Study on Java
 
 ## Part 1 - Basic Concepts
 
